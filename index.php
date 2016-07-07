@@ -1,6 +1,6 @@
 <?php
 
-$dsn = 'mysql://root:password@192.168.3.10:3306/db/';
+$dsn = 'mysql://root:password@172.17.0.2:3306/db/';
 $clients = [];
 
 /**
